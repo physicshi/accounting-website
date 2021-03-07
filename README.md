@@ -1,4 +1,4 @@
-# 记账应用
+# 移动端记账应用
 
 TypeScript+React
 
